@@ -699,9 +699,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@qaxixam](https://github.com/qaxixam)
+- Email: devqazi59@gmail.com
+- LinkedIn: [Your Profile](www.linkedin.com/in/qazi-zaid-02142126b)
 
 ---
 
@@ -710,9 +710,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 Have questions or found a bug? Please open an issue on GitHub or contact the maintainers.
 
 ### Quick Links
-- [Issues](https://github.com/yourusername/youtube-clone-api/issues)
-- [Discussions](https://github.com/yourusername/youtube-clone-api/discussions)
-- [Wiki](https://github.com/yourusername/youtube-clone-api/wiki)
+- [Issues](https://github.com/qaxixam/youtube-clone-api/issues)
+- [Discussions](https://github.com/qaxixam/youtube-clone-api/discussions)
+
 
 ---
 
