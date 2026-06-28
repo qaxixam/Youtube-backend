@@ -75,7 +75,7 @@ Before you begin, ensure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/youtube-clone-api.git
+git clone https://github.com/qaxixam/youtube-clone-api.git
 cd youtube-clone-api
 ```
 
