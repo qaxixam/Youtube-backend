@@ -2,9 +2,7 @@
 
 A fully-featured backend API for a YouTube-like video streaming platform built with Node.js, Express, and MongoDB. This project provides complete functionality for user management, video uploads, streaming, commenting, and social features like subscriptions and likes.
 
-**Live Demo:** Coming Soon  
-**Frontend Repository:** [Link to frontend repo]  
-**Deployed API:** [Link to deployed API]
+
 
 ---
 
